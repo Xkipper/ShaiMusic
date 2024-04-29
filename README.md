@@ -17,7 +17,9 @@ git clone https://github.com/Xkipper/ShaiMusic.git
 Descarga este Proyecto en formato ZIP y arroja los archivos a tu carpeta `Music`
 
 ## Actualizar
-Es posible que el proyecto sufra cambios como: Mejoras a las canciones o que se agreguen nuevas. Para Actualizarse a estos cambios:
+Es posible que el proyecto sufra cambios como: Mejoras a las canciones o que se agreguen nuevas.
+
+Para Actualizarse a estos cambios:
 - Vaya a **Documents\Black Desert\\Music**
 - Inicie la Consola de Comandos ahí
 - Ejecute el siguiente comando:
